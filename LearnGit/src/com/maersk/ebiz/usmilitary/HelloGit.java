@@ -4,7 +4,11 @@ package com.maersk.ebiz.usmilitary;
  * Created by apappu_parental on 9/8/15.
  */
 public class HelloGit {
+    public HelloGit() {
+    }
+
     public static void main(String args[]) {
         System.out.println("Hello Git.  Git Sucks.");
+        CreatingNewClass cla = new CreatingNewClass();
     }
 }
